@@ -91,8 +91,8 @@ El proceso de KDD
 El proceso de KDD, según el esquema de Brachman y Anand, se muestra en la
 Figura siguiente.
 
-.. figure:: ../img/Proceso-KDD.png
-   :width: 80%
+.. figure:: _static/img/Proceso-KDD.png
+   :width: 100%
    :align: center
    :alt: Proceso de KDD según Brachman y Anand
 
@@ -254,8 +254,8 @@ Entre los principales retos se encuentran:
 - **La maldición de la dimensión**
 - **Datos heterogéneos y complejos**
 
-.. figure:: img/dim.png
-   :width: 70%
+.. figure:: _static/img/dim.png
+   :width: 100%
    :align: center
    :alt: Maldición de la dimensión
 
