@@ -1,8 +1,8 @@
 Otras técnicas de clasificación
-==============================
+===============================
 
 Clasificadores basados en reglas
---------------------------------
+---------------------------------
 
 En la sección anterior, el modelo utilizado para clasificar se representaba como un **árbol de decisión**.
 Los clasificadores que veremos a continuación representan al modelo como un conjunto de reglas **IF-THEN**.
@@ -82,8 +82,8 @@ Los algoritmos clasificadores basados en reglas extraen reglas a partir de los d
    como RIPPER :cite:`cohen1995fast` o CN2 :cite:`clark1989cn2`.
 
 
-:k: vecinos más próximos
------------------------
+`k` vecinos más próximos
+-------------------------
 
 Este algoritmo se basa en una idea sencilla: asignar al objeto a clasificar la clase que tengan los
 objetos del conjunto de entrenamiento que más se parezcan a él.
