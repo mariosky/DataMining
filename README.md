@@ -1,4 +1,4 @@
-# DataMining
+# Apuntes de la materia de Minería de Datos
 
 Apuntes de [Data Mining](https://mariosky.github.io/DataMining/)
 
