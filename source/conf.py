@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Data Mining'
-copyright = '2026, J Mario García Valdez'
-author = 'J Mario García Valdez'
+copyright = '2026, J. Mario García Valdez'
+author = 'J. Mario García Valdez'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
